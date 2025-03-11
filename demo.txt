@@ -1,1 +1,2 @@
 clone test
+pull/fetch test
